@@ -1,0 +1,13 @@
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Diretórios do VS Code
+.vscode/
+
+# Arquivos temporários do PHP
+*.log
+
+# Outros arquivos temporários
+*.tmp
+*.bak
